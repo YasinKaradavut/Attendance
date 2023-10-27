@@ -1,0 +1,11 @@
+Attendance
+Adding a Person
+Add
+Add Note
+Person Not Selected
+Deleting A Person
+Delete
+Record Attendance
+Attended People
+Save Note
+Unattended People

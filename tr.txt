@@ -1,0 +1,11 @@
+Yoklama
+Kişi Ekleme
+Ekle
+Not Ekle
+Kişi Seçilmedi
+Kişi Silme
+Sil
+Yoklamayı Kaydet
+Gelenler
+Notu Kaydet
+Gelmeyenler
